@@ -1,0 +1,38 @@
+[config]
+schemaVersion = "0.0.1"
+
+[package]
+namespace = "Dannyj1"
+name = "Build_Shuffler"
+versionNumber = "0.1.0"
+description = "Build Shuffler is a gameplay mod that allows players to use multiple weapons in a single run, randomly shuffling between them. Each weapon has its own set of boons, requiring you to create and manage multiple builds within a single run."
+websiteUrl = "https://github.com/Dannyj1/HadesIIBuildShuffler"
+containsNsfwContent = false
+
+[package.dependencies]
+SGG_Modding-DemonDaemon = "1.1.0"
+SGG_Modding-ModUtil = "4.0.0"
+
+[build]
+icon = "./icon.png"
+readme = "./README.md"
+outdir = "./build"
+
+[[build.copy]]
+source = "./CHANGELOG.md"
+target = "./CHANGELOG.md"
+
+[[build.copy]]
+source = "./LICENSE"
+target = "./LICENSE"
+
+[[build.copy]]
+source = "./src"
+target = "./"
+
+[publish]
+repository = "https://thunderstore.io"
+communities = [ "hades-ii", ]
+
+[publish.categories]
+hades-ii = [ "mods", ]
