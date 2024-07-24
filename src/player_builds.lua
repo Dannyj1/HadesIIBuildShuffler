@@ -71,7 +71,7 @@ function BuildShuffler.InitializeBuildStore()
     end
 
     for _, weaponName in ipairs(playerWeapons) do
-        if IsWeaponUnlocked(weaponName) then
+        if IsWeaponUnlocked(weaponName) and not BuildShuffler.tableContains(BuildShuffler.Config.ExcludedWeapons, weaponName) then
             BuildShuffler.Builds[weaponName] = {
                 Traits = { },
                 LootTypeHistory = { },

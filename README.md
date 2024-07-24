@@ -38,6 +38,7 @@ The mod includes a config.lua file to customize settings. Available options are:
 - `Enabled`: Set to `true` to enable the mod, set to `false` to disable the mod. Default: `true`.
 - `LimitWeaponPool`: Set to `true` to limit the weapon pool size to the amount specified in `LimitWeaponPoolSize`. When this is `false`, all weapons are added to the weapon pool. Default: `true`.
 - `LimitWeaponPoolSize`: The amount of weapons in the weapon pool. Can be any number between 2 and 5. Ignored if LimitWeaponPool is set to false. Default: `3`.
+- `ExcludedWeapons`: Really dislike a weapon? Add it to this list to exclude it from the weapon pool. Needs to be the exact name as used in the game's code. Valid values: `"WeaponStaffSwing", "WeaponAxe", "WeaponDagger", "WeaponTorch", "WeaponLob"` Default: `{}`.
 
 ## Known Issues
 None at the moment. Please report any issues you find.

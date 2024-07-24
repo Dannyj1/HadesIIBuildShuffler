@@ -18,6 +18,7 @@ BuildShuffler.Config = {
     Enabled = true,
     LimitWeaponPool = true,
     LimitWeaponPoolSize = 3,
+    ExcludedWeapons = { },
 }
 
 return BuildShuffler.Config
