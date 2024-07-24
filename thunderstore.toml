@@ -5,7 +5,7 @@ schemaVersion = "0.0.1"
 namespace = "Dannyj1"
 name = "Build_Shuffler"
 versionNumber = "0.1.0"
-description = "Build Shuffler is a gameplay mod that allows players to use multiple weapons in a single run, randomly shuffling between them. Each weapon has its own set of boons, requiring you to create and manage multiple builds within a single run."
+description = "Build Shuffler allows players to use multiple weapons in a single run, randomly shuffling between them. Each weapon has its own set of boons, requiring you to create and manage multiple builds within a single run."
 websiteUrl = "https://github.com/Dannyj1/HadesIIBuildShuffler"
 containsNsfwContent = false
 
