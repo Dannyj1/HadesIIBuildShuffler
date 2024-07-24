@@ -18,6 +18,13 @@ This effectively requires you to manage and create multiple builds in a single r
 - **Next Weapon**: You will always be told about the weapon you will get in the next room at the top left of your screen, allowing you to plan around this.
 - **Weapon Pool Size**: The amount of weapons in the weapon pool can be configured. By default, only three random weapons are added to the pool. I found this to be the best balance, as adding more weapons made the run more difficult as you obtain fewer boons per weapon.
 
+## Prerequisites
+Before installing the mod, make sure you have the following installed:
+1. The latest version of ModImporter: https://www.nexusmods.com/hades2/mods/1
+2. The latest version of ModUtil (Put this in your Mods folder): https://github.com/SGG-Modding/ModUtil/releases
+
+Earlier versions of ModImport and ModUtil might not support Hades II, so make sure you are using a recent version!
+
 ## Installation
 **NOTE**: The instructions below are for ModImporter (or the Nexusmods version). These instructions are NOT for the Thunderstore version of the mod. It is recommended to use the ThunderStore version of this mod as it is easier to install. If you are using the Thunderstore version, you will need to use the fork of the r2modman, which can be found [here](https://github.com/xiaoxiao921/r2modmanPlus/releases). Installation through r2modmanPlus is as easy as just clicking the "Install" button.
 
