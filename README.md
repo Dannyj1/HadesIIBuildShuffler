@@ -1,7 +1,7 @@
 # Hades II Build Shuffler
 Hades II Build Shuffler is a gameplay mod for Hades II that allows players to use multiple weapons in a single run, randomly shuffling between them. Each weapon has its own set of boons, requiring you to create and manage multiple builds within a single run.
 
-Everytime you enter a room, a random weapon is selected from the weapon pool and given to you. The boons you choose for each weapon are saved and will be re-added every time you get that weapon again. When you switch to another weapon, the boons are removed.
+Every time you enter a room, a random weapon is selected from the weapon pool and given to you. The boons you choose for each weapon are saved and will be re-added every time you get that weapon again. When you switch to another weapon, the boons are removed.
 This effectively requires you to manage and create multiple builds in a single run. By default, three random weapons picked from all your unlocked weapons will be added to the weapon pool (this is configurable).
 
 **NOTE:** This mod is in its early stages and may have issues or crashes. Hades II is also in Early Access, so any update may break the mod or cause issues.
