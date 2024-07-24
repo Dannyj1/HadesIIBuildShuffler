@@ -19,6 +19,7 @@ This effectively requires you to manage and create multiple builds in a single r
 - **Weapon Pool Size**: The amount of weapons in the weapon pool can be configured. By default, only three random weapons are added to the pool. I found this to be the best balance, as adding more weapons made the run more difficult as you obtain fewer boons per weapon.
 
 ## Prerequisites
+**NOTE**: These aren't needed when using r2modman! If you are using r2modman, you can skip this section.
 Before installing the mod, make sure you have the following installed:
 1. The latest version of ModImporter: https://www.nexusmods.com/hades2/mods/1
 2. The latest version of ModUtil (Put this in your Mods folder): https://github.com/SGG-Modding/ModUtil/releases
