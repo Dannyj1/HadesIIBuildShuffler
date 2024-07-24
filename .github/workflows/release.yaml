@@ -12,7 +12,7 @@ on:
         type: boolean
 
 permissions:
-  contents: write # required for pushing to the repository and creating releases
+  contents: write
 
 env:
   changelog: CHANGELOG.md
