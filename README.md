@@ -13,7 +13,7 @@ This effectively requires you to manage and create multiple builds in a single r
 ## Features
 - **Weapon Shuffling**: Every room, a random weapon is selected from the weapon pool and given to you. It will use the aspects you had equipped before starting the run.
 - **Multiple Builds**: Your boons for each build are remembered. They are removed from your player when you switch to a new weapon and restored when you switch back.
-- **Balancing Changes**: To make sure that you can have enough boons for each build and do not become too weak, all "meta progression" items (Psyche, Ashes, etc.) are replaced with boons, hammers and poms of power. You will also encounter more hammers, ensuring that every weapon can obtain at least one hammer upgrade.
+- **Balance Changes**: To make sure that you can have enough boons for each build and do not become too weak, all "meta progression" items (Psyche, Ashes, etc.) are replaced with boons, hammers and poms of power. You will also encounter more hammers, ensuring that every weapon can obtain at least one hammer upgrade.
 - **God Pool Per Build**: Each weapon has its own god pool. If a god has good boons for one weapon/build, but is bad for another weapon/build, you do not have to worry about picking the god, as it will not be added to the god pool of your other builds.
 - **Next Weapon**: You will always be told about the weapon you will get in the next room at the top left of your screen, allowing you to plan around this.
 - **Weapon Pool Size**: The amount of weapons in the weapon pool can be configured. By default, only three random weapons are added to the pool. I found this to be the best balance, as adding more weapons made the run more difficult as you obtain fewer boons per weapon.
